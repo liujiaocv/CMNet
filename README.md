@@ -41,7 +41,3 @@ If you use CMNet, please consider citing:
 ## Acknowledgement
 
 This project is mainly based on https://github.com/swz30/MPRNet
-https://github.com/CVMI-Lab/UHDM
-https://github.com/TaoWangzj/LLFormer
-https://github.com/JingyunLiang/SwinIR
-https://github.com/lancopku/AdaNorm
